@@ -28,6 +28,14 @@ It is built using Python and common data science libraries.
 - Training multiple ML models
 - Model evaluation with precision, recall, F1-score
 - ROC-AUC curve visualization
+  
+📊 Results
+Best Model: Random Forest
+
+Accuracy: 99.94%
+
+ROC-AUC Score: 0.998
+
 
 ---
 
